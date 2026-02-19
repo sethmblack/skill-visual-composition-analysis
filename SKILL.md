@@ -3,8 +3,9 @@ name: visual-composition-analysis
 description: Analyze or design visual compositions using Kubrick's principles of symmetry, one-point perspective, and geometric meaning.
 license: MIT
 metadata:
+  version: 1.0.5283
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - structure
